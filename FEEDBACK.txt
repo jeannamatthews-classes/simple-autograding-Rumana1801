@@ -1,0 +1,3 @@
+ answer the following question: was any of this material about Github new to you? If so, what? 
+ -Yes, some of the materials were new to me. While I was aware of GitHub as a platfrom for collaboration, I had not previously created a repository from scratch and I have not explored any of the features of the GitHub in detail. 
+ -I have also learnt about different terminologies as well such as cloning, commiting and pushing.

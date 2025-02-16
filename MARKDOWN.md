@@ -1,0 +1,2 @@
+What is the difference between a text file and a markdown file? A text file(.txt) contains only plain text without any formatting. It is a simple, unstructured file that does not support any bold, italic, headings or any links.A markdown file (.md) on the other hand, is a lightweight markup language that allows for formatted text using simple syntax. 
+What the name of the repository you created using your user dashboard?    my-first-repo  
